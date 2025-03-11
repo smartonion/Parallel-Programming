@@ -40,7 +40,7 @@ A few highlights from the repository include:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/parallel-programming-implementations.git
+   git clone https://github.com/smartonion/Parallel-Programming.git
    cd parallel-programming-implementations
    ```
 2. **Open in Your IDE:**  
